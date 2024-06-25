@@ -3,11 +3,11 @@
   <title>jankincai</title>
   
   <subtitle>记录生活中点点滴滴</subtitle>
-  <link href="https://jankincai.com/atom.xml" rel="self"/>
+  <link href="https://www.jankincai.com/atom.xml" rel="self"/>
   
-  <link href="https://jankincai.com/"/>
+  <link href="https://www.jankincai.com/"/>
   <updated>2024-06-21T08:30:26.387Z</updated>
-  <id>https://jankincai.com/</id>
+  <id>https://www.jankincai.com/</id>
   
   <author>
     <name>JanKin Cai</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://jankincai.com/2024/06/21/hello-world/"/>
-    <id>https://jankincai.com/2024/06/21/hello-world/</id>
+    <link href="https://www.jankincai.com/2024/06/21/hello-world/"/>
+    <id>https://www.jankincai.com/2024/06/21/hello-world/</id>
     <published>2024-06-21T08:30:26.387Z</published>
     <updated>2024-06-21T08:30:26.387Z</updated>
     
